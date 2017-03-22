@@ -30,5 +30,5 @@ This repository contains a collection of files that collectively test for the ac
 ## Results
 Two tests should fail:
 1. The test on whether the website checks that email addresses are valid will fail. The website does not verify the validity of email addresses as of this writing.
-2. The test on whether each individual month page contains shoe releases will fail. As of this writing, the page for the month of december does not contain any shoe releases, nor a notification of the absence of shoe releases.
+2. The test on whether each individual month page contains shoe releases will fail. As of this writing, the page for the month of December does not contain any shoe releases, nor a notification of the absence of shoe releases.
   
