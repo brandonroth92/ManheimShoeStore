@@ -2,7 +2,7 @@
   "name": "manheim-shoe-store-test",
   "version": "1.0.0",
   "description": "Manheim Tester Application: Shoe Store",
-  "main": "index.js",
+  "main": "wdio.conf.js",
   "scripts": {
     "test": "./node_modules/.bin/wdio",
     "runTest": "gulp runTest"
