@@ -2,8 +2,8 @@
 
 This repository contains a collection of files that collectively test for the acceptance criteria defined in the problem definition of the Manheim Shoe Store. The problem definition can be found [here](http://shoestore-manheim.rhcloud.com/definition).
 
-[www.rothwebdevelopment.com](www.rothwebdevelopment.com) <br/>
-[LinkedIn](https://www.linkedin.com/in/brandon-roth-159b62130)
+[www.rothwebdevelopment.com](www.rothwebdevelopment.com) <br />
+[LinkedIn](https://www.linkedin.com/in/brandon-roth-159b62130) <br />
 [brandon.roth892@gmail.com](mailto:brandon.roth892@gmail.com)
 
 ## Tools Used:
@@ -29,6 +29,6 @@ This repository contains a collection of files that collectively test for the ac
 
 ## Results
 Two tests should fail:
-1. The test on whether the website checks that email addresses are valid will fail. The website does not verify the validity of email address as of this writing.
-2. The test on whether every individual month page contains shoe releases will fail. As of this writing, the page for the month of december does not contain any shoe releases, nor a notification of the absence of shoe releases.
+1. The test on whether the website checks that email addresses are valid will fail. The website does not verify the validity of email addresses as of this writing.
+2. The test on whether each individual month page contains shoe releases will fail. As of this writing, the page for the month of december does not contain any shoe releases, nor a notification of the absence of shoe releases.
   
