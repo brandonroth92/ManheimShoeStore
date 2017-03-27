@@ -2,7 +2,7 @@
 
 This repository contains a collection of files that collectively test for the acceptance criteria defined in the problem definition of the Manheim Shoe Store. The problem definition can be found [here](http://shoestore-manheim.rhcloud.com/definition).
 
-[www.rothwebdevelopment.com](www.rothwebdevelopment.com) <br />
+[www.rothwebdevelopment.com](http://www.rothwebdevelopment.com) <br />
 [LinkedIn](https://www.linkedin.com/in/brandon-roth-159b62130) <br />
 [brandon.roth892@gmail.com](mailto:brandon.roth892@gmail.com)
 
